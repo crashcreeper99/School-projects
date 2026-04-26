@@ -22,5 +22,5 @@ PA 2: I developed an elemental turn-based game for two players (any combination:
 - Lab 8: The objective of Lab 8 was to write a program that simulates rolling a pair of 6-sided dice based on how many times the user requests the dice to be rolled. The program asks the user how many rolls to perform (one roll means one pair of dice is rolled). Each time the pair is rolled, it calculates the sum of the two numbers and keeps track of the sums in a list.
 
 
-- Lab 9: The goal of Lab 9 was to create a program that uses file input to generate a list for an assigned seating table based on a file of names.
+
 
