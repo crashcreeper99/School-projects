@@ -1,7 +1,7 @@
 # Programmers: Lamar Holloway
 # Course: CS151
 # Due Date: 2/18/26
-# Lab Assignment: Lab 3
+# Lab Assignment: PA-1
 # Problem Statement: Our program finds points earned from a jumper on a ski jump based on hill type and jumper speed, the program then outputs a message based on points earned
 # Data In: yes/no and expand/sell
 # Data Out: business failed/survived, Final Cash and Final Business Value
