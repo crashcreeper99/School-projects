@@ -1,4 +1,4 @@
-# School Projects
+# Python Projects
 **Becoming Lamar Holloway, the Computer Engineer**
 
 **How Did I Get Here?**  
