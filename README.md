@@ -1,26 +1,40 @@
-# Python Projects
-**Becoming Lamar Holloway, the Computer Engineer**
+# School Projects
 
-**How Did I Get Here?**  
-Growing up, I was introduced to technology at a young age through video games, music, and cars. This exposure fueled my drive to understand how technology works, inspiring me to create my own software and hardware. I look forward to collaborating with teams that share my passion.
+A collection of programming assignments and college projects showing my growth in Python, problem-solving, program design, and debugging.
 
-I expect to explore topics related to design and problem-solving in my projects. I want what I create to bring joy to the world.
+## Focus
 
-The Specifics 
-Current Focus: Computer Engineering  
-School Projects from College
-Expected Completion: Spring 2026
+These projects were completed as part of my coursework and helped me practice:
 
-PA 1: I created a business adventure game! In this game, the user inputs choices that affect the trajectory of the story. Players can determine if they are successful or fail based on the value of their business.
+- Python programming
+- Input validation and error checking
+- Game logic and control flow
+- Lists, functions, and structured program design
+- File processing
+- Testing and debugging
+- Turning written requirements into working software
 
-PA 2: I developed an elemental turn-based game for two players (any combination: human vs. human, human vs. computer, or computer vs. computer). It follows a best-of-X format, where X is an odd number chosen by the user (e.g., best-of-3, best-of-5, best-of-7). Players alternate who goes first in each game, and the first player to win more than half the games wins the match (e.g., first to 2 in a best-of-3, first to 3 in a best-of-5). After the match ends, players can choose to have a rematch, and the game tracks and displays the total match wins for each player across all rematches.
+## Projects
 
-- PA 3: I designed a main menu to display ASCII art and creative text designs to the user. ASCII art utilizes combinations of characters to create visual patterns and designs on the screen.
+### PA 1 — Business Adventure Game
+A choice-based program where user decisions affect the direction and outcome of the story, including whether the business succeeds or fails.
 
-- Lab 7: The purpose of Lab 7 was to create a functioning ATM program that includes options to exit, display balance, deposit, and withdraw, all while incorporating error checking.
+### PA 2 — Elemental Turn-Based Game
+A two-player or human-vs-computer game that supports best-of-X matches, alternating first turns, rematches, and total match-win tracking.
 
-- Lab 8: The objective of Lab 8 was to write a program that simulates rolling a pair of 6-sided dice based on how many times the user requests the dice to be rolled. The program asks the user how many rolls to perform (one roll means one pair of dice is rolled). Each time the pair is rolled, it calculates the sum of the two numbers and keeps track of the sums in a list.
+### PA 3 — ASCII Art Menu
+A menu-driven program that uses ASCII art and formatted text to create a more engaging user interface.
 
+### Lab 7 — ATM Program
+A simple ATM simulation with balance display, deposits, withdrawals, exit handling, and input/error checking.
 
+### Lab 8 — Dice Roll Simulation
+A program that simulates repeated rolls of two six-sided dice and tracks the resulting sums.
 
+## Why this repository matters
 
+This repository represents an earlier stage of my engineering and software-development work. My newer embedded-systems projects build on the same problem-solving habits while adding hardware, firmware, sensors, networking, and system integration.
+
+## Current direction
+
+My main technical focus is computer and electrical engineering, especially embedded systems, electronics, and hardware/software integration.
